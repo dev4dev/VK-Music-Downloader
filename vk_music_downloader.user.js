@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name			VK Music Downloader v1.0.2
 // @namespace		name.x-code::vkontakte::music::download
-// @date			2011.05.03
+// @date			2011.06.18
 // @description		Download Music From VK
+// @author			.DeV!L
 // @include			http://vkontakte.ru*
 // @include			http://vk.com*
 // ==/UserScript==
